@@ -156,12 +156,12 @@
 
 				<p>
 					<label class="form_label">Nome* </label>
-					<input type="text" class="form_input" id="nome" />
+					<input style="background-color: yellow;" type="text" class="form_input" id="nome" />
 				</p>
 
 				<p>
 					<label class="form_label">Cognome* </label>
-					<input type="text" class="form_input" id="cognome" />
+					<input style="background-color: yellow;" type="text" class="form_input" id="cognome" />
 				</p>
 
 				<p>
@@ -340,7 +340,7 @@
 
 				<p>
 					<label class="form_label">Ripeti la password* </label>
-					<input type="password" class="form_input" id="password2" />
+					<input style="background-color: yellow;" type="password" class="form_input" id="password2" />
 				</p>
 
 				<p>
